@@ -4,9 +4,20 @@
 
 この拡張機能は閉じるボタンを自動クリックしません。表示された候補をユーザーが確認し、必要なものだけクリックします。
 
+## 入手先
+
+通常はChrome ウェブストア版の利用をおすすめします。
+
+Chrome ウェブストア:
+https://chromewebstore.google.com/detail/clmpgppinmjonoadlbgkjpjhkodghjlb?utm_source=item-share-cb
+
+GitHub Releasesでは、更新履歴と過去バージョンを確認できます。
+
+https://github.com/bunjicompany/where-is-close-button/releases
+
 ## 使い方
 
-1. Chrome ウェブストアから「バツどこ？」を追加する
+1. [Chrome ウェブストア](https://chromewebstore.google.com/detail/clmpgppinmjonoadlbgkjpjhkodghjlb?utm_source=item-share-cb)から「バツどこ？」を追加する
 2. 広告やポップアップが出たページを開く
 3. Chrome ツールバーの拡張機能アイコンを押す
 4. ポップアップ内の「×ボタン候補を探す」を押す
@@ -24,6 +35,12 @@
 ## 注意
 
 これは候補を示す支援ツールです。広告によっては偽のボタン、遅延表示、画像や CSS で作られた閉じるボタンがあり、必ず正しい候補だけを判定できるわけではありません。
+
+## よくあるケース
+
+- 候補が複数出る場合があります。番号の若い候補から確認してください。
+- 画像だけで作られた閉じるボタンや、時間差で表示されるボタンは検出できない場合があります。
+- この拡張機能は候補を表示するだけで、自動クリックは行いません。
 
 ## プライバシー
 
